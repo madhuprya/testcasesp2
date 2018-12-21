@@ -1,9 +1,11 @@
 <component name="libraryTable">
   <library name="hamcrest-core-1.3">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Desktop/junit4jars/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../junit4jars/hamcrest-core-1.3.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/junit4jars" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Downloads/junit4jars" recursive="false" />
   </library>
 </component>
