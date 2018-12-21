@@ -15,5 +15,5 @@ public class StudentGradeTest {
     @After
     public void tearDown() throws Exception {
     }
-    
+
 }
