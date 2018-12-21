@@ -1,5 +1,6 @@
-package com.stackroute.unittest.p2assign;
+package com.stackroute.unittest.testp2assign;
 
+import com.stackroute.unittest.p2assign.MemberVariable;
 import org.junit.Before;
 import org.junit.Test;
 
