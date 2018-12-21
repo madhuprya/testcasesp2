@@ -1,4 +1,4 @@
-package com.stackroute.unittest.test;
+package com.stackroute.unittest.testp1assign;
 import com.stackroute.unittest.p1assign.Alphabt;
 import org.junit.After;
 import org.junit.Before;
